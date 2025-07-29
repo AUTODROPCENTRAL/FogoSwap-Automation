@@ -1,0 +1,19 @@
+{
+  "rpcUrl": "https://testnet.fogo.io/",
+  "apiUrl": "https://api.valiant.trade",
+  "paymasterUrl": "https://sessions-example.fogo.io/paymaster",
+  "explorerUrl": "https://explorer.fogo.io/tx/",
+  "feePayer": "8HnaXmgFJbvvJxSdjeNyWwMXZb85E35NM4XNg6rxuw3w",
+  "tokens": {
+    "FOGO": "So11111111111111111111111111111111111111112",
+    "FUSD": "fUSDNGgHkZfwckbr5RLLvRbvqvRcTLdH9hcHJiq4jry"
+  },
+  "cyclesPerWallet": 5,
+  "swapAmount": {
+    "min": 0.00001,
+    "max": 0.000015
+  },
+  "delayBetweenSwaps": 15000,
+  "delayBetweenCycles": 10000,
+  "countdownHours": 24
+}
