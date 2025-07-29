@@ -126,9 +126,5 @@ Berikut tampilan real-time saat bot sedang berjalan:
 
 > 🧪 [@AUTODROP CENTRAL](https://t.me/AutoDropCentral) — For learning, testing, and farming purposes only
 
-
-
 ---
 
-Jika kamu mau, saya juga bisa bantu convert jadi file `README.md` langsung dan zip bersama scriptnya. Mau sekalian?
-```
